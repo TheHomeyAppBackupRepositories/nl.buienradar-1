@@ -1,0 +1,29 @@
+{
+  "name": "nl.buienradar",
+  "version": "1.0.0",
+  "description": "Turn Homey into your personal 'buienradar'.   With this app Homey will know everything about the expected rain.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.6"
+  },
+  "devDependencies": {
+    "eslint-config-athom": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/nl.buienradar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/nl.buienradar/issues"
+  },
+  "homepage": "https://github.com/athombv/nl.buienradar#readme"
+}

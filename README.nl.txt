@@ -1,0 +1,1 @@
+Gebruik de Buienradar app om je te waarschuwen voor aankomende regen! Wordt nooit meer nat dankzij Homey die je herrinert aan je paraplu. Of klap je zonwering automatisch in wanneer het gaat regenen. Werkt alleen binnen Nederland en België

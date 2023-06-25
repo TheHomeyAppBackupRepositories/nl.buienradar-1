@@ -1,0 +1,1 @@
+Use the Rainradar app to warn you for a rainy forecast! Never arrive wet anymore with a reminder from Homey to take a umbrealla with you. Or retract your blinds automatically when it's going to rain. Only works within the Netherlands and Belgium
